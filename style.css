@@ -1,0 +1,9 @@
+.grid-container{
+    border: 5px outset blue;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px 50px;
+}
+.grid-item{
+    text-align:center;
+}
