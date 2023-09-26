@@ -1,0 +1,46 @@
+.grid-container{
+    border: 60px outset blue;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item{
+    text-align:center;
+    width: 100%;
+    height: 100%;
+}
+.simons-bilder{
+    text-align:center;
+}
+.scarying{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.scarydiv{
+    justify-content: center;
+    position: absolute;
+}
+.scaryheader{
+    display: flex;
+    text-align: center;
+}
+.big-ah{
+    text-align: center;
+    font-size: 500px;
+}
+.lista ul li{
+    font-size: 15px;
+}
+.simonreligious{
+    background-image: h;
+}
+.Rel{
+    position: fixed;
+    width: 50%;
+    height: 50%;
+    left: 0;
+}
+.hem{
+    position: sticky;
+    top: 0;
+}
